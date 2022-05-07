@@ -6,18 +6,6 @@
 
 **[Subdeeply](https://subdeeply.com)** It is a multi-format educational platform and information collaboration service, with a technically It is a multi-format educational platform and information collaboration service, with a technically complex infrastructure. The underlying infrastructure requires continuous management to deliver an engaging user-side experience, and the ways to adapt to this infrastructure are endless. Subdeeply claims to own the entire creative process; and while this is a significant challenge, it aligns with current and emerging trends of consolidation in tools.
 
-### Services
-
-**Digital platform:** applications, services, and content creation. Our service increases in value as the supply increases, both in quantity and quality.
-
-
-
-
-
-
-
-
-
 ## Contact
 
 - **Contact Email:** contact@subdeeply.com
