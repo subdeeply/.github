@@ -8,5 +8,5 @@
 
 ## Contact
 
-- **Contact Email:** contact@subdeeply.com
+- **Contact Email:** thian@subdeeply.com
 - **Website:** https://subdeeply.com
